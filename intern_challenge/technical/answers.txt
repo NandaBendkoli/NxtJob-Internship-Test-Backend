@@ -1,11 +1,11 @@
 1.  Explain, in your own words, the importance of data consistency in real-time applications.
-->
+->Data consistency in real-time applications is crucial because it ensures that all users see the same information at the same time. Without consistency, different users might see conflicting or outdated data, which can lead to confusion and errors. For example, in a real-time chat app, if one user sees a message that another user doesn’t see immediately, it disrupts the conversation flow. Consistent data helps maintain accuracy and trust in the application, ensuring that everyone is on the same page.
 
 2. How do you handle concurrency issues in a multi-user environment?
-->
+-> 
 
 3. Describe a scenario where you had to optimize database queries for better performance.
-->
+-> 
 
 4. Discuss the trade-offs between using WebSockets and HTTP/2 for real-time communication.
-->
+-> 
